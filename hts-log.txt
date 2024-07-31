@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 31 Jul 2024 22:04:14 at https://www.techworld-with-nana.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.techworld-with-nana.com/ -O1 "C:\My Web Sites\technana" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:09:10	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/feed.xml (from https://www.techworld-with-nana.com/)
+22:09:10	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/${i.uri} (from https://www.techworld-with-nana.com/)
+22:09:10	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/decodeURIComponent(e (from https://www.techworld-with-nana.com/)
+22:13:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/page/5 (from https://www.techworld-with-nana.com/blog)
+22:14:02	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/post/robots.txt (from https://www.techworld-with-nana.com/post/devops-bootcamp-review-jean-david)
+22:14:02	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/post/sitemap.xml (from https://www.techworld-with-nana.com/post/devops-bootcamp-review-jean-david)
+22:14:02	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/post/feed.xml (from https://www.techworld-with-nana.com/post/devops-bootcamp-review-jean-david)
+22:14:02	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/post/${i.uri} (from https://www.techworld-with-nana.com/post/devops-bootcamp-review-jean-david)
+22:14:02	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/post/decodeURIComponent(e (from https://www.techworld-with-nana.com/post/devops-bootcamp-review-jean-david)
+22:14:12	Error: 	"Bad Request" (400) at link https://www.techworld-with-nana.com/blog/page/robots.txt (from https://www.techworld-with-nana.com/blog/page/2)
+22:14:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/page/sitemap.xml (from https://www.techworld-with-nana.com/blog/page/2)
+22:14:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/page/feed.xml (from https://www.techworld-with-nana.com/blog/page/2)
+22:14:12	Error: 	"Bad Request" (400) at link https://www.techworld-with-nana.com/blog/page/${i.uri} (from https://www.techworld-with-nana.com/blog/page/2)
+22:14:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/page/decodeURIComponent(e (from https://www.techworld-with-nana.com/blog/page/2)
+22:14:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/categories/robots.txt (from https://www.techworld-with-nana.com/blog/categories/twn-success-stories)
+22:14:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/categories/sitemap.xml (from https://www.techworld-with-nana.com/blog/categories/twn-success-stories)
+22:14:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/categories/feed.xml (from https://www.techworld-with-nana.com/blog/categories/twn-success-stories)
+22:14:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/categories/${i.uri} (from https://www.techworld-with-nana.com/blog/categories/twn-success-stories)
+22:14:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/categories/decodeURIComponent(e (from https://www.techworld-with-nana.com/blog/categories/twn-success-stories)
+22:14:12	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/categories/devops-as-a-career/page/2 (from https://www.techworld-with-nana.com/blog/categories/devops-as-a-career)
+22:19:15	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/post/devops-roadmap-how-to-become-a-devops-engineer (from https://www.techworld-with-nana.com/blog/page/9)
+22:19:21	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/tags/robots.txt (from https://www.techworld-with-nana.com/blog/tags/devops)
+22:19:21	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/tags/sitemap.xml (from https://www.techworld-with-nana.com/blog/tags/devops)
+22:19:21	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/tags/feed.xml (from https://www.techworld-with-nana.com/blog/tags/devops)
+22:19:21	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/tags/${i.uri} (from https://www.techworld-with-nana.com/blog/tags/devops)
+22:19:21	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/tags/decodeURIComponent(e (from https://www.techworld-with-nana.com/blog/tags/devops)
+22:19:46	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/hashtags/robots.txt (from https://www.techworld-with-nana.com/blog/hashtags/devsecops)
+22:19:46	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/hashtags/sitemap.xml (from https://www.techworld-with-nana.com/blog/hashtags/devsecops)
+22:19:46	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/hashtags/feed.xml (from https://www.techworld-with-nana.com/blog/hashtags/devsecops)
+22:19:46	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/hashtags/${i.uri} (from https://www.techworld-with-nana.com/blog/hashtags/devsecops)
+22:19:46	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/blog/hashtags/decodeURIComponent(e (from https://www.techworld-with-nana.com/blog/hashtags/devsecops)
+22:19:53	Error: 	"Not Found" (404) at link https://www.techworld-with-nana.com/it-beginners-course-waitlist (from https://www.techworld-with-nana.com/post/is-devops-profession-right-for-me-13-points-to-consider)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 39 seconds : 870 links scanned, 837 files written (118919213 bytes overall) [40870284 bytes received at 43525 bytes/sec], 118245468 bytes transferred using HTTP compression in 166 files, ratio 21%, 5.2 requests per connection
+(32 errors, 0 warnings, 0 messages)
